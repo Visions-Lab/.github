@@ -1,76 +1,92 @@
 # 🌍 **Visions Lab**
 
 ## 🔎 **About Us**
-**Visions Lab** is a hub for modular automation frameworks and tools, dedicated to providing **scalable, efficient, and flexible automation solutions**. Our primary focus is to create **community-driven, open-source frameworks** that enable users to automate workflows seamlessly across different platforms.
+**Visions Lab** creates modular frameworks that simplify development and automation. Our focus is on **extensible, developer-friendly tools** that enhance productivity and streamline workflows.
 
-Our flagship project, **VISIONS**, is a **modular automation framework** that allows users to install, manage, and execute independent automation modules (*Visions*). Each Vision can run either as a scheduled task (*cron job*) or as a real-time event listener, making the framework adaptable to various use cases.
+At the core of our ecosystem is **VISIONS**, an **open-source modular framework** that serves as the foundation for multiple development and automation projects. Similar to the **Apache Software Foundation**, VISIONS provides a **structured, expandable environment** where different projects can grow under a common ecosystem.
 
-We believe in:
-- ✅ **Modular design** – Every automation module (*Vision*) is an independent project.
-- ✅ **Scalability** – Designed for individuals, teams, and enterprises.
-- ✅ **Community contributions** – Open to new ideas, extensions, and improvements.
-- ✅ **Efficiency** – Optimized for minimal CPU and RAM usage while ensuring reliability.
+### **Core Components**
+- **Visions Core** → A foundational **library** that provides essential utilities, APIs, and tools for all Visions-based applications, including developer utilities, HTTP services, and automation.
+- **Visions Automate** → A modular **automation system** built on Visions Core, enabling users to create and manage automation tasks efficiently.
+- **Visions Docs** → A **documentation hub** offering comprehensive guides, references, and best practices for all Visions Lab projects.
+
+### **We Believe In:**
+- ✅ **Modular architecture** – Components that work independently or together.
+- ✅ **Developer-first tools** – Simplifying software development.
+- ✅ **Community-driven innovation** – Open-source growth.
+- ✅ **Performance optimization** – Efficient and scalable solutions.
 
 ---
 
 ## 🚀 **Our Mission**
-Our mission is to develop **automation tools that empower users**—whether you're a developer looking to streamline repetitive tasks, a sysadmin managing automated jobs, or a data scientist setting up workflows. We focus on:
+We build a **modular framework** that adapts to developers' needs, making automation, integration, and development more efficient.
 
-- 🔹 **Modular & extensible automation frameworks**
-- 🔹 **Support for various automation modes (cron, listeners, real-time triggers, APIs)**
+### **Key Focus Areas:**
+- 🔹 **A flexible framework for multiple applications**
+- 🔹 **Support for scheduled, event-driven, and real-time execution**
+- 🔹 **Developer tools to simplify workflows**
 - 🔹 **Easy-to-use CLI and API integrations**
-- 🔹 **Seamless integration with external repositories and community-driven plugins**
+- 🔹 **Seamless integration with external repositories**
 
-We aim to **bridge the gap between automation and flexibility**, ensuring that every tool we develop can be customized for a wide range of use cases.
+VISIONS is the foundation for **all future software within Visions Lab**, ensuring a unified developer ecosystem.
 
 ---
 
-## 🏗 **Projects Under Visions Lab**
-### 1️⃣ **VISIONS - Modular Automation Framework**
-A fully modular automation framework where users can **install, enable, and manage automation modules (Visions) dynamically**. Key features include:
-- Independent *Visions* with separate dependencies and configurations.
-- Hybrid execution modes: **Scheduled execution (cron) & real-time execution (listeners)**.
-- Built-in dependency management for each Vision.
-- CLI for easy management of Visions and repositories.
-- Community-driven repository support.
+## 🏠 **Projects Under Visions Lab**
+### 1️⃣ **Visions Core**
+A **universal library** that provides essential tools and functionalities for all Visions Lab applications. It serves as the backbone for:
+- Developer utilities
+- Automation systems
+- HTTP services
+- Future software expansions
 
-### 2️⃣ **(Future Projects)**
-🚧 More automation frameworks and tools to be announced!
+### 2️⃣ **Visions Automate**
+A **powerful automation module** built on Visions Core that enables users to define, schedule, and manage automation tasks. Features:
+- Pre-built automation modules
+- Community-driven contributions
+- Execution modes: **cron jobs & real-time event listeners**
+
+### 3️⃣ **Visions Docs**
+A **centralized documentation hub** for all Visions Lab projects, including:
+- Developer guides for Visions Core
+- User documentation for automation
+- Best practices for optimizing software workflows
+
+**Currently, Visions Automate is our first and only module.**
 
 ---
 
 ## 🤝 **Contributing to Visions Lab**
-We are **open to contributions** from the community! If you're interested in automation and want to be part of an innovative open-source ecosystem, consider:
-- ✅ **Submitting new Visions** – Create and share automation modules.
-- ✅ **Improving existing Visions** – Optimize, debug, and extend functionalities.
-- ✅ **Suggesting new features** – Help shape the future of automation frameworks.
-- ✅ **Fixing bugs** – Contribute to stability and efficiency.
+We welcome contributions from the community! If you're passionate about developer tools and automation, consider:
+- ✅ **Expanding Visions Core** with new utilities.
+- ✅ **Building and sharing automation modules.**
+- ✅ **Enhancing existing Visions projects.**
+- ✅ **Proposing new features.**
+- ✅ **Fixing bugs and improving stability.**
 
-**Get Started:**
-- 1️⃣ Fork the repository.
-- 2️⃣ Create a new branch.
-- 3️⃣ Implement your changes.
-- 4️⃣ Submit a pull request for review!
+### **Get Started**
+> 🏢 **1** Fork the repository.  
+> 📂 **2** Create a new branch.  
+> 🔧 **3** Implement your changes.  
+> 📚 **4** Submit a pull request!  
 
 ---
 
 ## 📢 **Join the Community**
-We are building a **collaborative space** for automation enthusiasts! Stay updated and contribute:
+We are building a **collaborative space** for developers and automation enthusiasts! Stay updated and contribute:
 - 📌 **GitHub Discussions** – Share ideas and propose features.
 - 📌 **Issue Tracker** – Report bugs, request features, and track progress.
-- 📌 **Community Repository** – Discover and share Visions.
+- 📌 **Community Repository** – Discover and share Visions-based projects.
 
-Let's build something powerful, scalable, and efficient—together! 🚀
+Let’s build a **powerful, scalable, and efficient** ecosystem together! 🚀
 
 ---
 
 ## 📩 **Contact & Support**
 For questions, collaborations, or support, reach out to:
-📧 Email: soporte@miguvt.com  
-🌐 Website: [Coming Soon]  
+- 📎 Email: soporte@miguvt.com  
+- 🌐 Website: [Coming Soon]  
   
-
 ---
 
-**Visions Lab – Automation, Simplified.**
-
+**Visions Lab – A Modular Future for Developers and Automation.**
