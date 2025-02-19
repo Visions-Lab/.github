@@ -6,20 +6,20 @@
 Our flagship project, **VISIONS**, is a **modular automation framework** that allows users to install, manage, and execute independent automation modules (*Visions*). Each Vision can run either as a scheduled task (*cron job*) or as a real-time event listener, making the framework adaptable to various use cases.
 
 We believe in:
-✅ **Modular design** – Every automation module (*Vision*) is an independent project.
-✅ **Scalability** – Designed for individuals, teams, and enterprises.
-✅ **Community contributions** – Open to new ideas, extensions, and improvements.
-✅ **Efficiency** – Optimized for minimal CPU and RAM usage while ensuring reliability.
+- ✅ **Modular design** – Every automation module (*Vision*) is an independent project.
+- ✅ **Scalability** – Designed for individuals, teams, and enterprises.
+- ✅ **Community contributions** – Open to new ideas, extensions, and improvements.
+- ✅ **Efficiency** – Optimized for minimal CPU and RAM usage while ensuring reliability.
 
 ---
 
 ## 🚀 **Our Mission**
 Our mission is to develop **automation tools that empower users**—whether you're a developer looking to streamline repetitive tasks, a sysadmin managing automated jobs, or a data scientist setting up workflows. We focus on:
 
-🔹 **Modular & extensible automation frameworks**
-🔹 **Support for various automation modes (cron, listeners, real-time triggers, APIs)**
-🔹 **Easy-to-use CLI and API integrations**
-🔹 **Seamless integration with external repositories and community-driven plugins**
+- 🔹 **Modular & extensible automation frameworks**
+- 🔹 **Support for various automation modes (cron, listeners, real-time triggers, APIs)**
+- 🔹 **Easy-to-use CLI and API integrations**
+- 🔹 **Seamless integration with external repositories and community-driven plugins**
 
 We aim to **bridge the gap between automation and flexibility**, ensuring that every tool we develop can be customized for a wide range of use cases.
 
@@ -41,24 +41,24 @@ A fully modular automation framework where users can **install, enable, and mana
 
 ## 🤝 **Contributing to Visions Lab**
 We are **open to contributions** from the community! If you're interested in automation and want to be part of an innovative open-source ecosystem, consider:
-✅ **Submitting new Visions** – Create and share automation modules.
-✅ **Improving existing Visions** – Optimize, debug, and extend functionalities.
-✅ **Suggesting new features** – Help shape the future of automation frameworks.
-✅ **Fixing bugs** – Contribute to stability and efficiency.
+- ✅ **Submitting new Visions** – Create and share automation modules.
+- ✅ **Improving existing Visions** – Optimize, debug, and extend functionalities.
+- ✅ **Suggesting new features** – Help shape the future of automation frameworks.
+- ✅ **Fixing bugs** – Contribute to stability and efficiency.
 
 **Get Started:**
-1️⃣ Fork the repository.
-2️⃣ Create a new branch.
-3️⃣ Implement your changes.
-4️⃣ Submit a pull request for review!
+- 1️⃣ Fork the repository.
+- 2️⃣ Create a new branch.
+- 3️⃣ Implement your changes.
+- 4️⃣ Submit a pull request for review!
 
 ---
 
 ## 📢 **Join the Community**
 We are building a **collaborative space** for automation enthusiasts! Stay updated and contribute:
-📌 **GitHub Discussions** – Share ideas and propose features.
-📌 **Issue Tracker** – Report bugs, request features, and track progress.
-📌 **Community Repository** – Discover and share Visions.
+- 📌 **GitHub Discussions** – Share ideas and propose features.
+- 📌 **Issue Tracker** – Report bugs, request features, and track progress.
+- 📌 **Community Repository** – Discover and share Visions.
 
 Let's build something powerful, scalable, and efficient—together! 🚀
 
